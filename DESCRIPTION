@@ -36,3 +36,6 @@ Authors@R: c(person("Hector", "Sanz", role = c("aut", "cre"), email = "hector.sa
              person("Ruth", "Aguilar", role = "ctb"),
              person("Gemma", "Moncunill", role = "ctb"))   
 License: GPL (>= 2)
+URL: https://github.com/hsanz/drLumi
+BugReports: https://github.com/hsanz/drLumi/issues
+        
