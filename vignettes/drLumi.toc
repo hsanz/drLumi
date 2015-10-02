@@ -1,0 +1,37 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Main structure of datasets}{4}{section.2}
+\contentsline {section}{\numberline {3}Datasets in the package}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}MFI data}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}EC data}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Raw data from xPONENT$^\text {$\mathsurround \z@ \mathchar "472$}$ software}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Extraction of samples data}{5}{section.4}
+\contentsline {section}{\numberline {5}Data analysis}{6}{section.5}
+\contentsline {subsection}{\numberline {5.1}Models}{7}{subsection.5.1}
+\contentsline {paragraph}{Five-parameter logistic function:}{7}{section*.3}
+\contentsline {paragraph}{Four-parameter logistic function:}{7}{section*.4}
+\contentsline {paragraph}{Exponential growth:}{8}{section*.5}
+\contentsline {subsection}{\numberline {5.2}Blank controls}{8}{subsection.5.2}
+\contentsline {paragraph}{Ignored:}{8}{section*.7}
+\contentsline {paragraph}{Included:}{8}{section*.8}
+\contentsline {paragraph}{Subtracted:}{9}{section*.9}
+\contentsline {paragraph}{Constrained:}{9}{section*.10}
+\contentsline {subsection}{\numberline {5.3}Limits of quantification}{10}{subsection.5.3}
+\contentsline {paragraph}{Derivatives:}{10}{section*.12}
+\contentsline {paragraph}{Interval:}{11}{section*.14}
+\contentsline {paragraph}{Coefficient of variation:}{12}{section*.17}
+\contentsline {subsection}{\numberline {5.4}Fitted concentration}{13}{subsection.5.4}
+\contentsline {paragraph}{Bootstrap:}{14}{section*.19}
+\contentsline {paragraph}{Delta method:}{14}{section*.20}
+\contentsline {subsection}{\numberline {5.5}Agreement between controls}{15}{subsection.5.5}
+\contentsline {section}{\numberline {6}Summary of results}{16}{section.6}
+\contentsline {paragraph}{Print:}{16}{section*.21}
+\contentsline {paragraph}{Summary:}{16}{section*.22}
+\contentsline {subparagraph}{Neill test:}{16}{section*.23}
+\contentsline {subparagraph}{$ \boldsymbol {R^2}$:}{17}{section*.24}
+\contentsline {subparagraph}{AIC:}{17}{section*.25}
+\contentsline {paragraph}{Plot:}{20}{section*.26}
+\contentsline {section}{\numberline {7}Flag data}{22}{section.7}
+\contentsline {section}{\numberline {8}Raw data from xPONENT$^\text {$\mathsurround \z@ \mathchar "472$}$ software}{24}{section.8}
+\contentsline {subsection}{\numberline {8.1}MFI raw data}{24}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Bead raw data}{26}{subsection.8.2}

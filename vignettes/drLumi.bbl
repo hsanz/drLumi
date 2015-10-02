@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{Defawe}
+{\sc Defawe, O., Fong, Y., Vasilyeva, E., Pickett, M., Carter, D., Gabriel, E.,
+  Rerks-Ngarm, S., Nityaphan, S., Frahm, N., McElrath, M., and Rosa, S.~D.}
+\newblock Optimization and qualification of a multiplex bead array to assess
+  cytokine and chemokine production by vaccine-specific cells.
+\newblock {\em J Immunol Methods. 382\/} (2012), 117--128.
+
+\bibitem{minpack.lm}
+{\sc Elzhov, T., Mullen, K.~M., Spiess, A.-N., and Bolker, B.}
+\newblock {\em minpack.lm: R interface to the Levenberg-Marquardt nonlinear
+  least-squares algorithm found in MINPACK, plus support for bounds}, 2013.
+\newblock R package version 1.1.8.
+
+\bibitem{irr}
+{\sc Gamer, M., Lemon, J., Fellows, I., and Puspendra, S.}
+\newblock {\em irr: Various Coefficients of Interrater Reliability and
+  Agreement}, 2012.
+\newblock R package version 0.84.
+
+\bibitem{Gottschalk}
+{\sc Gottschalk, P., and Dunn, J.}
+\newblock Determining the error of dose estimates and minimum and maximum
+  acceptable concentrations from assays with nonlinear dose-response curves.
+\newblock {\em Comput. Methods Programs Biomed 80\/} (2005), 204--215.
+
+\bibitem{msm}
+{\sc Jackson, C.}
+\newblock {\em msm: Multi-state Markov and hidden Markov models in continuous
+  time}, 2014.
+\newblock R package version 1.4.
+
+\bibitem{NEILLTEST}
+{\sc Neill, J.}
+\newblock Testing for lack of fit in nonlinear regression.
+\newblock {\em Ann. Statist. 16\/} (1988), 733--740.
+
+\bibitem{loqint}
+{\sc Quinn, C.~P., Semenova, V.~A., Elie, C.~M., Sandra Romero-Steiner, C.~G.,
+  Li, H., Stamey, K., Steward-Clark, E., Schmidt, D.~S., Mothershed, E.,
+  Pruckler, J., Schwartz, S., Benson, R.~F., Helsel, L.~O., Holder, P.~F.,
+  Johnson, S.~E., Kellum, M., Messmer, T., Thacker, W.~L., Besser, L.,
+  Plikaytis, B.~D., Taylor, T.~H., Freeman, A.~E., Wallace, K.~J., Dull, P.,
+  Sejvar, J., Bruce, E., Moreno, R., Schuchat, A., Lingappa, J.~R., Martin,
+  S.~K., Walls, J., Bronsdon, M., Carlone, G.~M., Bajani-Ari, M., Ashford,
+  D.~A., Stephens, D.~S., and Perkins, B.~A.}
+\newblock Specific, sensitive, and quantitative enzyme-linked immunosorbent
+  assay for human immunoglobulin g antibodies to anthrax toxin protective
+  antigen.
+\newblock {\em Emerg Infect Dis 10\/} (2002), 1103--1110.
+
+\bibitem{logcv}
+{\sc Reed, G., Lynn, F., and Meade, B.}
+\newblock Use of coefficient of variation in assessing variability of
+  quantitative assays.
+\newblock {\em Clin Diagn Lab Immunol 9\/} (2002), 1235--1239.
+
+\bibitem{loqder}
+{\sc Ritz, C., and Spiess, A.}
+\newblock qpcr: an r package for sigmoidal model selection in quantitative
+  real-time polymerase chain reaction analysis.
+\newblock {\em Bioinformatics 24\/} (2008), 1549--1551.
+
+\bibitem{DRC}
+{\sc Ritz, C., and Strebig, J.}
+\newblock {\em drc: Analysis of dose-response curve data}, 2013.
+\newblock R package version 2.3-96.
+
+\bibitem{INLR}
+{\sc Ruckstuhl, A.}
+\newblock {\em Introduction to Nonlinear Regression}, 2010.
+
+\end{thebibliography}
